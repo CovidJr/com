@@ -1,0 +1,13 @@
+h1 = Titulo en grande
+p = para parrafos
+br = para separar parrafos
+b = para negrita
+i = cursiva
+u = subrayado
+img = imagenes + (ctrl + espacio), Centrar una imagen + (Center)
+marquee = Letras movibles
+li= organiza un lista por puntos
+ol = Encierra a li para mostrar numeros
+iframe = para videos
+hr = linea para separar u organizar
+2:39
